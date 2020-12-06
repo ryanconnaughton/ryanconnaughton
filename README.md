@@ -1,2 +1,2 @@
 # ryanconnaughton
-Unicorn 🦄  ► UX/product designer, strategist and researcher - currently learning how2code
+Unicorn 🦄 &nbsp; ► UX/product designer, strategist and researcher - currently learning how2code
