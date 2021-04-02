@@ -1,2 +1,3 @@
 # ryanconnaughton
-Unicorn 🦄 &nbsp; ► UX/product designer, strategist and researcher - currently learning how2code (PostresQL, Node/Express, React, SASS)
+Unicorn 🦄  » UX/product designer, strategist and researcher
+» Currently learning how2code (PostreSQL, Node/Express, React, SASS)
